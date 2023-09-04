@@ -2,7 +2,7 @@
     <br>
     The Bible - The best Bible bot in Discord!
     <br><br>
-    <img src="./assets/discord-avatar-512-9Y2MD.png" alt="The Bible icon">
+    <img src="./assets/discord-avatar-128-SBVSN.png" alt="The Bible icon">
     <br><br>
 </h1>
 
