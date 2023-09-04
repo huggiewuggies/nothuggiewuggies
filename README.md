@@ -28,9 +28,9 @@ Click here to invite the bot to your server!  ->  [Invite](https://discord.com/a
 
 ## Is there an issue?
 
-Create a new thread [here](https://github.com/huggiewuggies/nothuggiewuggies/issues) and explain the issue clearly. No formats needed to follow, just explain the issue and why is it happening. (if not possible then I'll try to find where the issue occurs)
-
-If there isn't any replies to the issue you've posted, contact me. <b> .huggiewuggies </b>
+Create a new thread [here](https://github.com/huggiewuggies/nothuggiewuggies/issues) and explain the issue clearly.<br>No formats needed to follow, just explain the issue and why is it happening. (if not possible then I'll try to find where the issue occurs)
+<br><br>
+If there isn't any replies to the issue you've posted, contact me.<b><em>&nbsp;&nbsp;&nbsp;&nbsp;.huggiewuggies </em></b> <br>
 I will also be in the support server if there is a problem searching for my account.
 
 ## Credits
